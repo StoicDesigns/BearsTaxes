@@ -17,7 +17,7 @@ Future development will come!
 Add this to line 82 inside of
 ND_CharaterSelection\source\server.lua
 
-#config.lua
+# config.lua
 Add this to line 37 inside of
 ND_CharaterSelection\config.lua
 
