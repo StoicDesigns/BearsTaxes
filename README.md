@@ -11,9 +11,9 @@ Future development will come!
 --------------------------
 
 
-#Installation
+# Installation
 ---------------
-#server.lua
+# server.lua
 Add this to line 82 inside of
 ND_CharaterSelection\source\server.lua
 
