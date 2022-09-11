@@ -10,6 +10,17 @@ This is is a simple addition to give players money but they act as a tax deducti
 Future development will come!
 --------------------------
 
+
+#Installation
+---------------
+#server.lua
+Add this to line 82 inside of
+ND_CharaterSelection\source\server.lua
+
+#config.lua
+Add this to line 37 inside of
+ND_CharaterSelection\config.lua
+
 Bear Development 
 https://discord.gg/DrTwxdfGhr
 https://linktr.ee/stoicdesigns
